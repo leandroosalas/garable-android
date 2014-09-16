@@ -9,7 +9,12 @@ Working on all documentation and how to's
 
 ## Developing
 
+<<<<<<< HEAD
 Node.JS Application: https://github.com/leandroosalas/garable.git
+=======
+Node.JS application: https://github.com/leandroosalas/garable.git
+
+>>>>>>> FETCH_HEAD
 iOS application in progress.
 
 ## License
